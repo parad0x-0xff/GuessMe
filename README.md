@@ -1,6 +1,6 @@
 # Writeup for Guess me challenge.
 
-Full Writeup at my blog --> [Coming soon]
+Full Writeup at my blog --> [GuessMe](https://blog.parad0x.vip/blog/2024/09/10/GuessMe.html)
 --- 
 
 ## Objective
